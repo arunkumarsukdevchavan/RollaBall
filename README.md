@@ -91,7 +91,7 @@ public class balls : MonoBehaviour
 ```
 
 ## Output:
-https://user-images.githubusercontent.com/121222763/265992560-938795f6-d8df-44fc-883c-f576625cbe86.png
+![output](https://user-images.githubusercontent.com/121222763/265992560-938795f6-d8df-44fc-883c-f576625cbe86.png)
 
 ## Result:
 Thus, The 3D application for Roll the Ball objects in unity is developed successfully.
