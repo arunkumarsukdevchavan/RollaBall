@@ -24,7 +24,7 @@ Transform -> Position -> y=0.5]
 
 6. Create a folder in project and name as Materials
 [Material folder -> Create -> Material (Name: Background)
-Inspector ->Surface Inputs ->BaseMAp (Choose the color)
+Inspector ->Surface Inputs ->BaseMAp (Choose the color) 
 Metallic map-> 0
 Smoothness -> 0.25
 Drag the Background to the plane and release the mouse
